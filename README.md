@@ -1,2 +1,2 @@
-# SQUAD-o4
+# Udupi
 Application web page
